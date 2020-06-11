@@ -7,7 +7,7 @@ uygulamanın yüklü olduğu bilgisayarların yavaşlaması, bazı uygulama gere
 donanım özellikleri tarafından karşılanamaması, buna bağlı olarak bilgisayar/donanım yenileme
 maliyetlerinin ortaya çıkması ve kapalı kaynak kodlu yazılımların lisans maliyetleri gösterilebilir.
 
-Weblab adını verdiğimiz projemizde, bu problemlere odaklanmaktayız. Projemizi gerçekleştirmek
+Weblab adını verdiğimiz projede, bu problemlere odaklanılmaktadır. Projemizi gerçekleştirmek
 adına bölümümüz laboratuvarını pilot bölge olarak seçmiş bulunmaktayız. Weblab projemiz, bölümümüz
 laboratuvarında yaşanan şu problemlere de çözüm üretmektedir:
 
@@ -22,7 +22,7 @@ laboratuvarında yaşanan şu problemlere de çözüm üretmektedir:
 
 - Kapalı kaynak kodlu yazılımların lisans maliyetleri.
 
-Weblab projemizin ana amacı bu problemlere çözüm bulmaktır. Ayrıca projemizin diğer amaçları:
+Weblab projenin ana amacı bu problemlere çözüm bulmaktır. Ayrıca projenin diğer amaçları:
 
 1. Kullanıcıları, özgür yazılım uygulamalarını kullanmaya teşvik etmek.
 
@@ -30,13 +30,8 @@ Weblab projemizin ana amacı bu problemlere çözüm bulmaktır. Ayrıca projemi
 
 3. Milli işletim sistemimiz olan Pardus’u daha yaygın hale getirmek.
 
-Ana amacımızı gerçekleştirmek adına, son yıllarda yaygınlaşmaya başlayan konteyner teknolojini
-projemizin en önemli parçası haline getirdik. Konteyner teknolojisinden yola çıkarak sanal bir bilgisayar
-oluşturup, istemcisiz olarak –ekstra bir uygulama yüklemeden- tarayıcı üzerinden belirlenen web sitesine
-girdikten sonra, kullanıcı girişini gerçekleştirerek kullanıcıya sanal bir bilgisayar sunmayı hedefledik.
-Projemizde, GNU Linux işletim sistemini kullanan milli Pardus dağıtımımızı kullanarak,
-kullanıcılarının hem Pardus dağıtımını kullanmaya hem de bu dağıtımı geliştirmeye teşvik etmeye
-çalıştık.
+Son yıllarda yaygınlaşmaya başlayan konteyner teknolojini projenin en önemli parçası haline getirildi. Konteyner teknolojisinden yola çıkarak sanal bir bilgisayar oluşturup, istemcisiz olarak –ekstra bir uygulama yüklemeden- tarayıcı üzerinden belirlenen web sitesine girdikten sonra, kullanıcı girişini gerçekleştirerek kullanıcıya sanal bir bilgisayar sunmak hedeflenmiştir. Projede, GNU Linux işletim sistemini kullanan milli Pardus dağıtımımızı kullanarak,
+kullanıcılarının hem Pardus/Debian dağıtımını kullanmaya hem de bu dağıtımı geliştirmeye teşvik edildi.
 
 
 
