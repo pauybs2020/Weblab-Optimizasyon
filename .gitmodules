@@ -1,0 +1,12 @@
+[submodule "noVNC"]
+	path = noVNC
+	url = https://github.com/novnc/noVNC.git
+[submodule "tigervnc"]
+	path = tigervnc
+	url = https://github.com/TigerVNC/tigervnc.git
+[submodule "weblab.io"]
+	path = weblab.io
+	url = https://github.com/Tersane-iscileri/weblab.io.git
+[submodule "weblab"]
+	path = weblab
+	url = https://github.com/Tersane-iscileri/weblab.git
