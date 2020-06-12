@@ -1,5 +1,5 @@
 ---
-# Weblab-Optimizasyon
+# Weblab Optimizasyon
 ---
 Bilgisayar teknolojisinin gelişimi birçok sorunu ortadan kaldırdığı gibi beraberinde yeni sorunlar
 ortaya çıkarmıştır. Bilgisayar kullanıcılarının en çok karşılaştığı problemler arasında, çok fazla
